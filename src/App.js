@@ -1,7 +1,7 @@
 import { PrimaryButton } from "./components/atoms/button/PrimaryButton";
 import { SecondaryButton } from "./components/atoms/button/SecondaryButton";
 import { SearchInput } from "./components/molecules/SerachInput";
-import { UserCard } from "./components/otranisms/user/UserCard";
+import { UserCard } from "./components/organisms/user/UserCard";
 import "./styles.css";
 
 const user = {
